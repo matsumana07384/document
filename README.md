@@ -3,10 +3,9 @@
 
 ***
 # 2018
-***
 
 ## 2018/03/19（Mon）
-- Circle CI 入門
+- [Circle CI 入門](https://gist.github.com/matsumana07384/3ea9911bf82c1052b67dda5eafa984c8)
 ***
 ## 2018/03/12（Mon）
 - [Bonfire Android #3](https://gist.github.com/matsumana07384/2a8d13a8aa9ae06f29d4d4b2536b7267) 
@@ -18,11 +17,10 @@
 - [LT型勉強会『機械学習』](https://gist.github.com/matsumana07384/2b2fe8cb2185c63df438beb4def9073c)
 ***
 ## 2018/01/09(Tue)
-- Bonfire Next #1ヤフーが未来の取り組みをUPDATEする場をつくっていきます！
+- Bonfire Next #1
 
 ***
 # 2017
-***
 
 ## 2017/12/21(Thu)
 - Dockerで開発環境構築してみよう
@@ -34,10 +32,10 @@
 - 『50代』エンジニアのキャリア論
 ***
 ## 2017/11/20（Mon）
-- Bonfire iOS #3ヤフーがiOSアプリ開発をUPDATEする場をつくっていきます！
+- Bonfire iOS #3
 ***
 ## 2017/11/06（Mon）
-- Bonfire Android #2 ヤフーがAndroidアプリ開発をUPDATEする場をつくっていきます！
+- Bonfire Android #2
 ***
 ## 2017/10/26(Thu)
 - 初めてのVue.js
@@ -89,7 +87,6 @@
 
 ***
 # 2016
-***
 
 ### 2016/04/24（Sun）
 - ドワンゴのプランナー・エンジニアに学ぶ！スマホアプリ開発の最前線
