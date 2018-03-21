@@ -16,6 +16,10 @@
 ## 2018/01/16（Mon）
 - [LT型勉強会『機械学習』](https://gist.github.com/matsumana07384/2b2fe8cb2185c63df438beb4def9073c)
 ***
+## 2018/01/27(Sat)
+- [Yahoo! JAPAN Tech Conference 2018](https://gist.github.com/matsumana07384/d43b9817fa79be5e42f026da9464c9a2)
+***
+
 ## 2018/01/09(Tue)
 - Bonfire Next #1
 
