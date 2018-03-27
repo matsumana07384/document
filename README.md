@@ -4,6 +4,9 @@
 ***
 # 2018
 
+## 2018/03/27（Tue）
+- [けーすた！ #4 - Case Study ! Lightning Talk -](https://gist.github.com/matsumana07384/3d91d7326dc2afef8d4d6f51561ebb43)
+
 ## 2018/03/19（Mon）
 - [Circle CI 入門](https://gist.github.com/matsumana07384/3ea9911bf82c1052b67dda5eafa984c8)
 ***
@@ -11,7 +14,7 @@
 - [Bonfire Android #3](https://gist.github.com/matsumana07384/2a8d13a8aa9ae06f29d4d4b2536b7267) 
 ***
 ## 2018/02/01(Thu)
-- Bonfire API #1
+- [Bonfire API #1](https://gist.github.com/matsumana07384/a1d391b62a7b0560104ef0709a97c0bf)
 ***
 ## 2018/01/16（Mon）
 - [LT型勉強会『機械学習』](https://gist.github.com/matsumana07384/2b2fe8cb2185c63df438beb4def9073c)
