@@ -1,8 +1,11 @@
 今まで参加した勉強会のリストです．
 メモをリンクで設定しています．（※順次UP中）
+個人の見解や理解が入っておりますので，参考程度にどうぞ．
 
 ***
 # 2018
+## 2018/04/10（Tue）
+- Webデザイナーにも知ってもらいたい脆弱性
 
 ## 2018/03/27（Tue）
 - [けーすた！ #4 - Case Study ! Lightning Talk -](https://gist.github.com/matsumana07384/3d91d7326dc2afef8d4d6f51561ebb43)
@@ -16,16 +19,11 @@
 ## 2018/02/01(Thu)
 - [Bonfire API #1](https://gist.github.com/matsumana07384/a1d391b62a7b0560104ef0709a97c0bf)
 ***
-## 2018/01/16（Mon）
-- [LT型勉強会『機械学習』](https://gist.github.com/matsumana07384/2b2fe8cb2185c63df438beb4def9073c)
-***
 ## 2018/01/27(Sat)
 - [Yahoo! JAPAN Tech Conference 2018](https://gist.github.com/matsumana07384/d43b9817fa79be5e42f026da9464c9a2)
 ***
-
-## 2018/01/09(Tue)
-- Bonfire Next #1
-
+## 2018/01/16（Mon）
+- [LT型勉強会『機械学習』](https://gist.github.com/matsumana07384/2b2fe8cb2185c63df438beb4def9073c)
 ***
 # 2017
 
@@ -34,9 +32,12 @@
 ***
 ## 2017/12/18（Mon）
 - 第9回 droid girls meetup「FlexboxLayout」
+*** 
+## 2017/12/12（Thu）
+- [第14回 HosCon - GMO Hosting Conference - @渋谷](https://gist.github.com/matsumana07384/9ccc6a81ea1d03d9c7ba0aae7ca9edf8)
 ***
 ## 2017/12/14（Mon）
-- 『50代』エンジニアのキャリア論
+- [『50代』エンジニアのキャリア論](https://gist.github.com/matsumana07384/c8b508a40ebe2cbc9d0449e9536fd372)
 ***
 ## 2017/11/20（Mon）
 - Bonfire iOS #3
@@ -77,24 +78,23 @@
 ## 2017/06/12（Mon）
 - Bonfire iOS #2
 ***
-### 2017/05/29（Mon）
+## 2017/05/29（Mon）
 - 機械学習を使った「ビジネスになる」アプリケーションの作り方
 ***
-### 2017/05/25(Thu)
+## 2017/05/25(Thu)
 - セキュリティ入門
 ***
-### 2017/05/16(Tue)
+## 2017/05/16(Tue)
 - Pythonを始めよう（ハンズオンあり）
 ***
 ## 2017/05/12(Fri)
 - テクノロジが変える人間の恋愛活動
 ***
-### 2017/02/22（Wed）
+## 2017/02/22（Wed）
 - 第6回 HosCon - GMO Hosting Conference - @大阪
-
 ***
 # 2016
 
-### 2016/04/24（Sun）
+## 2016/04/24（Sun）
 - ドワンゴのプランナー・エンジニアに学ぶ！スマホアプリ開発の最前線
 ***
